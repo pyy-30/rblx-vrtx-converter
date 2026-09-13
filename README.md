@@ -67,6 +67,16 @@
 
 
 
+## **| ADVANCED**
+
+### a) Optional Arguments
+
+* **--verbose** or **-v** - Print full output from each underlying converter script instead of hiding it
+* **--keep-json** - Save a **.json** file when the conversion finishes showing how every instance is ported to Vortex
+* **[output-file]** - Second positional arg: put the output somewhere other than next to the input
+
+
+
 ## **| TROUBLESHOOTING**
 
 * If using "py" in terminal doesn't work, try "python" or "python3"
