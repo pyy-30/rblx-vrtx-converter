@@ -55,7 +55,6 @@
 6. Enjoy!
 
 
-
 ### ***b) Vortex -> Roblox***
 
 1. Save your Vortex project, and insert it into a folder called *"TargetFiles"* located in the same folder as this file.
@@ -75,6 +74,15 @@
 * **--keep-json** - Save a **.json** file when the conversion finishes showing how every instance is ported to Vortex
 * **[output-file]** - Second positional arg: put the output somewhere other than next to the input
 
+
+### b) Examples
+
+* py ConvertToRoblox.py myscene.vrtx
+* py ConvertToRoblox.py myscene.vrtx --verbose
+* py ConvertToRoblox.py myscene.vrtx --keep-json
+* py ConvertToRoblox.py myscene.vrtx custom_name.rbxlx --verbose --keep-json
+* py ConvertToRoblox.py                          (auto-picks if TargetFiles has one file)
+* py ConvertToRoblox.py                           (shows menu if multiple files present)
 
 
 ## **| TROUBLESHOOTING**
