@@ -90,5 +90,5 @@
 * If using "py" in terminal doesn't work, try "python" or "python3"
 * If zstandard won't install, try "pip3 install zstandard".
 * Trying to convert outdated Vortex files could fail. If that happens, open your vortex file, make a small change (like moving a part) and save the file.
-* Trying to convert newer Vortex files than designed will fail. If that happens, please download the newer version, you can find every version uploaded in the same forum page.
+* Trying to convert newer Vortex files than designed will fail. If that happens, please download the newer version, you can find every version uploaded in this repo.
 
