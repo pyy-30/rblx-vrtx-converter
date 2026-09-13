@@ -1,10 +1,10 @@
-#### **Thank you for downloading PY\_30's Roblox <-> Vortex Converter (v0.4)**
+# **Thank you for downloading PY\_30's Roblox <-> Vortex Converter (v0.4)**
 
 **Full Toolchain Documentation:**
 
 
 
-##### **| WHAT THIS DOES**
+## **| WHAT THIS DOES**
 
 * Using this, in seconds, you can transition your Roblox places into a Vortex place *(the other way around too)*
 * It cleanly converts: Parts, TrussParts, Models, Scripts *(excluding ModuleScripts)*, Remote Events / Function, Bindable Events, SpawnLocations 
@@ -13,7 +13,7 @@
 
 
 
-##### **| SETUP:**
+## **| SETUP:**
 
 **STEP 1:** Install Python.
 
@@ -43,9 +43,9 @@
 
 
 
-##### **| HOW TO USE: *(in case anything doesn't work view troubleshooting written below)***
+## **| HOW TO USE: *(in case anything doesn't work view troubleshooting written below)***
 
-###### ***a) Roblox -> Vortex***
+### ***a) Roblox -> Vortex***
 
 1. Save your Roblox project as a **.rblxl** file.
 2. Insert it into a folder called *"TargetFiles"* located in the same folder as this file.
@@ -56,7 +56,7 @@
 
 
 
-###### ***b) Vortex -> Roblox***
+### ***b) Vortex -> Roblox***
 
 1. Save your Vortex project, and insert it into a folder called *"TargetFiles"* located in the same folder as this file.
 2. Open **PowerShell** and open this folder's directory. *(ex. **cd "C:\\Users\\user\\Downloads\\Vortex Converter"**)*
@@ -67,7 +67,7 @@
 
 
 
-##### **| TROUBLESHOOTING**
+### **| TROUBLESHOOTING**
 
 * Again, if "py" doesn't work, try "python" or "python3"
 * If zstandard won't install, try "pip3 install zstandard".
