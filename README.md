@@ -19,7 +19,7 @@
 
 * Download Python from:
 
-  [https://www.python.org/downloads/](https://www.python.org/downloads/)
+    [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 * On Windows, tick "Add Python to PATH" during installation
 
@@ -39,7 +39,7 @@
 
 * Run:
 
-  **py -c "import zstandard; print(zstandard.\_\_version\_\_)"**
+    **py -c "import zstandard; print(zstandard.\_\_version\_\_)"**
 
 
 
