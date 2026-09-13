@@ -1,4 +1,4 @@
-# **Thank you for downloading PY\_30's Roblox <-> Vortex Converter (v0.4)**
+# **Thank you for choosing PY\_30's Roblox <-> Vortex Converter (v0.4)**
 
 **Full Toolchain Documentation:**
 
