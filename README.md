@@ -19,7 +19,7 @@
 
 * Download Python from:
 
-&#x09;[https://www.python.org/downloads/](https://www.python.org/downloads/)
+  [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 * On Windows, tick "Add Python to PATH" during installation
 
@@ -29,7 +29,7 @@
 
 * Open a terminal (Command Prompt / PowerShell / Terminal) and run:
 
-&#x09;pip install zstandard
+  pip install zstandard
 
 * Its used to decompress **.vrtx** files
 
@@ -39,7 +39,7 @@
 
 * Run:
 
-&#x09; **py -c "import zstandard; print(zstandard.\_\_version\_\_)"**
+  **py -c "import zstandard; print(zstandard.\_\_version\_\_)"**
 
 
 
