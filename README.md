@@ -77,12 +77,12 @@
 
 ### b) Examples
 
-* py ConvertToRoblox.py myscene.vrtx
-* py ConvertToRoblox.py myscene.vrtx --verbose
-* py ConvertToRoblox.py myscene.vrtx --keep-json
-* py ConvertToRoblox.py myscene.vrtx custom_name.rbxlx --verbose --keep-json
-* py ConvertToRoblox.py                          (auto-picks if TargetFiles has one file)
-* py ConvertToRoblox.py                           (shows menu if multiple files present)
+* **py ConvertToRoblox.py myscene.vrtx**
+* **py ConvertToRoblox.py myscene.vrtx --verbose**
+* **py ConvertToRoblox.py myscene.vrtx --keep-json**
+* **py ConvertToRoblox.py myscene.vrtx custom_name.rbxlx --verbose --keep-json**
+* **py ConvertToRoblox.py**                           (auto-picks if TargetFiles has one file)
+* **py ConvertToRoblox.py**                           (shows menu if multiple files present)
 
 
 ## **| TROUBLESHOOTING**
