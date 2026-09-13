@@ -49,7 +49,7 @@
 
 1. Save your Roblox project as a **.rblxl** file.
 2. Insert it into a folder called *"TargetFiles"* located in the same folder as this file.
-3. Open **PowerShell** and open this folder's directory. *(ex. **cd "C:\\Users\\user\\Downloads\\vortex-converter"**)*
+3. Open **PowerShell** and open this folder's directory. *(ex. **cd "C:\\Users\\user\\Downloads\\vortex-converter-main"**)*
 4. Using **PowerShell**, run **ConvertToVortex.py** and pass in your file's name. *(ex. **py ConvertToVortex.py myGame.rbxlx**)*
 5. A new file should appear named by your target file, this time in **.vrtx**. Open this file directly in **Vortex Studio**. *In case anything fails, follow printed instructions, in case it errors, report your bug directly in the forum.*
 6. Enjoy!
@@ -59,7 +59,7 @@
 ### ***b) Vortex -> Roblox***
 
 1. Save your Vortex project, and insert it into a folder called *"TargetFiles"* located in the same folder as this file.
-2. Open **PowerShell** and open this folder's directory. *(ex. **cd "C:\\Users\\user\\Downloads\\vortex-converter"**)*
+2. Open **PowerShell** and open this folder's directory. *(ex. **cd "C:\\Users\\user\\Downloads\\vortex-converter-main"**)*
 3. Using **PowerShell**, run **ConvertToRoblox.py** and pass in your file's name. *(ex. **py ConvertToRoblox.py myGame.vrtx**)*
 4. A new file should appear named by your target file, this time in **.rbxlx**. Open this file using **Roblox Studio**. *In case anything fails, follow printed instructions, in case it errors, report your bug directly in the forum.*
 5. To prevent any publishing issues: before editing, save your file as a default **.rbxl** file.
